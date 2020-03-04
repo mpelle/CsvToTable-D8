@@ -1,0 +1,6 @@
+name: csvtotable
+description: 'Quickly and easily allows you to read a csv and display it in an html table'
+package: csvtotable
+core: 8.x
+type: module
+configure: csvtotable.form

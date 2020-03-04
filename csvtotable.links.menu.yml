@@ -1,0 +1,5 @@
+csvtotable.menu:
+  title: 'Csv to table'
+  description: 'Settings page for CsvtoTable'
+  parent: system.admin_config_ui
+  route_name: csvtotable.form

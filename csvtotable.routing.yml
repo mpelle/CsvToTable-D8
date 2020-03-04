@@ -1,0 +1,7 @@
+csvtotable.form:
+  path: 'admin/config/csvtotable/configuration'
+  defaults:
+   _title: 'csvtotable Module'
+   _form: '\Drupal\csvtotable\Form\csvtotableForm'
+  requirements:
+    _permission: 'access administration pages'
